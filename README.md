@@ -14,13 +14,13 @@ The project integrates Firebase for data handling and leverages a GPT-based back
 ├── my_firebase.py # Firebase setup and data logging functions
 ```
 
-🧪 Technologies Used
+## 🧪 Technologies Used
 Python
 Firebase 
 GPT API (HKBU Internal)
 
-📚 Acknowledgments
+## 📚 Acknowledgments
 Developed as part of the coursework for COMP7940 at Hong Kong Baptist University.
 
-🔒 Disclaimer
+## 🔒 Disclaimer
 This project is for educational use only and may rely on APIs or credentials not publicly available.
